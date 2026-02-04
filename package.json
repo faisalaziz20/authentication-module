@@ -1,0 +1,26 @@
+{
+  "name": "yahu_8_authontication",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/msal-common": "^16.0.3",
+    "bcryptjs": "^3.0.3",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongoose": "^9.1.5",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.11",
+    "session": "^0.1.0",
+    "something": "^0.0.1"
+  }
+}
